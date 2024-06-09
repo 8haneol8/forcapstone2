@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="water_goals"> <!-- 배열의 name 속성 -->
+        <item>500</item> <!-- 배열의 항목 -->
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <!-- 항목 추가 가능 -->
+    </string-array>
+
+    <string-array name="tumbler_weight_options">
+        <item>500g</item>
+        <item>750g</item>
+        <item>1kg</item>
+        <item>1.25kg</item>
+        <item>1.5kg</item>
+    </string-array>
+
+</resources>
+
+    <!-- NonachieveNotion.java의 스피너 설정. R.array.water_goals의 파일 -->
+    <!-- water_goals의 배열을 따로 파일을 만들어 저장. 스피너의 아이템들 -->
